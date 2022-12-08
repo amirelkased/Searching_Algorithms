@@ -8,3 +8,5 @@ if __name__ == '__main__':
     init = input('Welcome in A* : \nPlease enter init point : ')
     goal = input('Please enter goal point : ')
     print(Algorithm.A(graph, heuristic, init, goal))
+
+# Designed By: Amir Elkased
